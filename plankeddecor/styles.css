@@ -1,0 +1,113 @@
+body {
+  
+  margin: 50px;
+  background-color: #d67031;
+  font-family:"Montserrat","Open sans";
+  
+}
+
+head {
+  margin: 50px;
+}
+
+.logo {
+  height: 300px;
+  width: 300px;
+  margin-top: -30px;
+  border-radius: 50px;
+  margin-left: -20px;
+  
+}
+
+.planked-label {
+  font-size: 40px;
+  font-weight: 400;
+  margin-top: 85px;
+  padding-left: -10px;
+  display: inline-block;
+  position: absolute;
+  color: black;
+  letter-spacing: -8px;
+  
+}
+
+.header-section {
+  font-size: 30px;
+  position: absolute;
+  top: 170px;
+  right: 100px;
+}
+
+.header-text {
+  color: purple;
+  padding-left: 20px;
+  text-decoration: none;
+}
+
+.welcome {
+  font-size: 40px;
+  font-weight: 500;
+  color: rgb(143, 10, 10);
+}
+
+.where {
+  font-size: 25px;
+  font-style: italic;
+  color: rgb(143, 10, 10);
+}
+
+.first-image {
+  width: 750px;
+  height: 500px;
+  margin-left: 10px;
+  margin-top: 50px;
+  border-radius: 50px;
+}
+
+.second-image {
+  width: 750px;
+  height: 500px;
+  border-radius: 50px;
+  margin-top: 50px;
+  margin-left: 500px;
+}
+
+.third-image {
+  width: 750px;
+  height: 500px;
+  margin-left: 10px;
+  margin-top: 50px;
+  border-radius: 50px;
+}
+.first-decor-desc {
+  display: inline-block;
+  font-size: 35px;
+  position: absolute;
+  padding-top: 225px;
+  padding-left: 15px;
+  color: white;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.second-decor-desc {
+  font-size: 35px;
+  position: absolute;
+  top: 1200px;
+  left: 50px;
+  color: rgb(77, 0, 77);
+  font-weight: 500;
+  font-style: italic;
+}
+
+.third-decor-desc {
+  display: inline-block;
+  font-size: 35px;
+  position: absolute;
+  padding-top: 250px;
+  padding-left: 15px;
+  color: gold;
+  font-weight: 500;
+  font-style: italic;
+  
+}
